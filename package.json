@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kumolab/stay-silent#readme",
   "dependencies": {
     "@types/compression": "^1.7.0",
+    "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.7",
     "compression": "^1.7.4",
     "express": "^4.17.1",

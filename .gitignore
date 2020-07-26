@@ -4,4 +4,10 @@ build/
 
 *.txt
 
-config.json
+.env.*
+
+setting.json
+db_conf.json
+
+setting.ts
+db_conf.ts
